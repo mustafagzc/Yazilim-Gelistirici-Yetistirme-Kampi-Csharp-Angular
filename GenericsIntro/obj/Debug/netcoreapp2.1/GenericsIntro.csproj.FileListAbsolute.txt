@@ -1,0 +1,11 @@
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.deps.json
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.runtimeconfig.json
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.dll
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\bin\Debug\netcoreapp2.1\GenericsIntro.pdb
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.dll
+C:\Users\mustafagozcu\source\repos\GenericsIntro\GenericsIntro\obj\Debug\netcoreapp2.1\GenericsIntro.pdb
