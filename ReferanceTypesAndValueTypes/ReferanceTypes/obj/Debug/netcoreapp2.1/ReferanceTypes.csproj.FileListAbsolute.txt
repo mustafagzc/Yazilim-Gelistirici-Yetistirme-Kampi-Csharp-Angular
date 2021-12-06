@@ -1,0 +1,11 @@
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\bin\Debug\netcoreapp2.1\ReferanceTypes.deps.json
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\bin\Debug\netcoreapp2.1\ReferanceTypes.runtimeconfig.json
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\bin\Debug\netcoreapp2.1\ReferanceTypes.runtimeconfig.dev.json
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\bin\Debug\netcoreapp2.1\ReferanceTypes.dll
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\bin\Debug\netcoreapp2.1\ReferanceTypes.pdb
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.csprojAssemblyReference.cache
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.AssemblyInfoInputs.cache
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.AssemblyInfo.cs
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.dll
+C:\Users\mustafagozcu\source\repos\ReferanceTypes\ReferanceTypes\obj\Debug\netcoreapp2.1\ReferanceTypes.pdb
