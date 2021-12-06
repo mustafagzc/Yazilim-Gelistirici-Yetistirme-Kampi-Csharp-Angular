@@ -1,0 +1,11 @@
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\netcoreapp2.1\DictionaryIntro.deps.json
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\netcoreapp2.1\DictionaryIntro.runtimeconfig.json
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\netcoreapp2.1\DictionaryIntro.runtimeconfig.dev.json
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\netcoreapp2.1\DictionaryIntro.dll
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\netcoreapp2.1\DictionaryIntro.pdb
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.csprojAssemblyReference.cache
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.csproj.CoreCompileInputs.cache
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.AssemblyInfoInputs.cache
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.AssemblyInfo.cs
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.dll
+C:\Users\mustafagozcu\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\netcoreapp2.1\DictionaryIntro.pdb
